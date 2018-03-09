@@ -1,0 +1,10 @@
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\bin\Debug\kinoteatr.exe.config
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\bin\Debug\kinoteatr.exe
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\bin\Debug\kinoteatr.pdb
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\obj\Debug\kinoteatr.csprojResolveAssemblyReference.cache
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\obj\Debug\kinoteatr.Form1.resources
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\obj\Debug\kinoteatr.Properties.Resources.resources
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\obj\Debug\kinoteatr.csproj.GenerateResource.Cache
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\obj\Debug\kinoteatr.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\obj\Debug\kinoteatr.exe
+C:\Users\Togrul\Desktop\kinoteatr\kinoteatr\obj\Debug\kinoteatr.pdb
